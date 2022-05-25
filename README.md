@@ -1,5 +1,5 @@
 Autor: Jakub Głowacki
-Data: 25.05.2022r.
+Data: 25.05.2022r
 
-To jest repozytorium testowe z Inżynierii Oprogramowania.
-Będą tu pierwsze próbuy dotyczące commitów i branchy.
+To jest repozytorium z kalkulatorem z Inżynierii Oprogramowania,
+znajdują się tutaj pierwsze próby dotyczące commitów i branchy a także funkcje tworzące kalkulator.
